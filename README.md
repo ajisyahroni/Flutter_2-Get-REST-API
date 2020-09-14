@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 ## REST API 
 REST API URL
 https://alfabank-blog.herokuapp.com/api/v1/tweets/all
+
+sorry much bug in this app, i'm a newbie
